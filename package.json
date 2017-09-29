@@ -1,0 +1,22 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "basic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atesoanelu/Liri-node-app"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atesoanelu/Liri-node-app"
+  },
+  "homepage": "https://github.com/atesoanelu/Liri-node-app/blob/master/README.md",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7"
+  }
+}

@@ -1,0 +1,274 @@
+
+***** New Search - undefined - undefined *****
+
+That is not a valid action.
+
+***** New Search - undefined - undefined *****
+
+That is not a valid action.
+
+***** New Search - my - twitt *****
+
+That is not a valid action.
+
+***** New Search - my-tweets - undefined *****
+
+Error: [object Object]
+
+***** New Search - undefined - undefined *****
+
+That is not a valid action.
+
+***** New Search - undefined - undefined *****
+
+That is not a valid action.
+
+***** New Search - undefined - undefined *****
+
+Is this is valid!.
+
+***** New Search - my-tweets - undefined *****
+
+Error: [object Object]
+
+***** New Search - spotify-this-song - undefined *****
+
+
+***** New Search - my-tweets - undefined *****
+
+Error: [object Object]
+
+***** New Search - my-tweets - undefined *****
+
+Error: [object Object]
+
+***** New Search - movie-this - undefined *****
+
+Error: null
+
+***** New Search - movie-this - the matrix *****
+
+Error: null
+
+***** New Search - movie-this - the matrix *****
+
+Error: null
+
+***** New Search - my-tweets - undefined *****
+
+Error: [object Object]
+
+***** New Search - movie-this - - *****
+
+Year: undefined
+Title: undefined
+IMDB Rating: undefined
+Language: undefined
+Country: undefined
+Short Plot: undefined
+Actors: undefined
+Rotten Tomatoes Rating: undefined
+Rotton Tomatoes URL: undefined
+
+***** New Search - movie-this - the *****
+
+Title: undefined
+Country: undefined
+Language: undefined
+Short Plot: undefined
+Actors: undefined
+Rotten Tomatoes Rating: undefined
+Rotton Tomatoes URL: undefined
+Year: undefined
+IMDB Rating: undefined
+
+***** New Search - movie-this - the *****
+
+Title: undefined
+IMDB Rating: undefined
+Short Plot: undefined
+Actors: undefined
+Year: undefined
+Country: undefined
+Rotten Tomatoes Rating: undefined
+Language: undefined
+Rotton Tomatoes URL: undefined
+
+***** New Search - movie-this - the *****
+
+Title: The Shawshank Redemption
+Year: 1994
+IMDB Rating: 9.3
+Country: USA
+Short Plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+Language: English
+Actors: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler
+Rotten Tomatoes Rating: N/A
+Rotton Tomatoes URL: http://www.rottentomatoes.com/m/shawshank_redemption/
+
+***** New Search - spotify-this - song *****
+
+Is this is valid!.
+
+***** New Search - spotify-this-song - love don't cost a thing *****
+
+
+***** New Search - spotify-this-song - love don't cost a thing *****
+
+
+***** New Search - spotify-this-song - love don't cost a thing *****
+
+
+***** New Search - spotify-this-song - love don't cost a thing *****
+
+
+***** New Search - spotify-this-song - love don't cost a thing *****
+
+
+***** New Search - spotify-this-song - love don't cost a thing *****
+
+
+***** New Search - spotify-this-song - love don't cost a thing *****
+
+
+***** New Search - spotify-this-song - love don't cost a thing *****
+
+Artist Name: Jennifer Lopez
+Song Name: Love Don't Cost a Thing
+Spotify URL: https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR
+Album Name: J.Lo
+
+***** New Search - my-tweets - undefined *****
+
+Error: [object Object]
+
+***** New Search - movie-this - next friday *****
+
+Title: Next Friday
+Language: English
+Year: 2000
+Short Plot: Uncle Elroy and Day Day owe money on taxes so Craig finds a way to steal from the next door neighbors to pay off the taxes so Uncle Elroy's house doesn't get put up for auction.
+Actors: Ice Cube, Mike Epps, Justin Pierce, John Witherspoon
+Rotten Tomatoes Rating: N/A
+IMDB Rating: 6.1
+Rotton Tomatoes URL: http://www.rottentomatoes.com/m/next_friday/
+Country: USA
+
+***** New Search - my-tweets - undefined *****
+
+Error: [object Object]
+
+***** New Search - movie-this - next friday *****
+
+Title: Next Friday
+Year: 2000
+IMDB Rating: 6.1
+Language: English
+Short Plot: Uncle Elroy and Day Day owe money on taxes so Craig finds a way to steal from the next door neighbors to pay off the taxes so Uncle Elroy's house doesn't get put up for auction.
+Rotten Tomatoes Rating: N/A
+Rotton Tomatoes URL: http://www.rottentomatoes.com/m/next_friday/
+Actors: Ice Cube, Mike Epps, Justin Pierce, John Witherspoon
+Country: USA
+
+***** New Search - spotify-this-song - pain is love *****
+
+Album Name: Pain Is Love
+Spotify URL: https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6
+Song Name: Always On Time
+Artist Name: Ja Rule
+
+***** New Search - spotify-this-song - pain is love *****
+
+Artist Name: Ja Rule
+Song Name: Always On Time
+Spotify URL: https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6
+Album Name: Pain Is Love
+
+***** New Search - spotify-this-song - 'controller' *****
+
+Song Name: Controller (feat. Faris Badwan) - Radio Edit
+Artist Name: Hercules & Love Affair
+Spotify URL: https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W
+Album Name: Controller (feat. Faris Badwan)
+
+***** New Search - spotify-this-song - 'one *****
+
+Artist Name: Logic
+Song Name: 1-800-273-8255
+Spotify URL: https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L
+Album Name: Everybody
+
+***** New Search - spotify-this-song - Hotline Bling *****
+
+Spotify URL: https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4
+Album Name: Views
+Artist Name: Drake
+Song Name: Hotline Bling
+
+***** New Search - movie-this - coming to america *****
+
+Title: Coming to America
+Country: USA
+IMDB Rating: 7.0
+Language: English
+Short Plot: An extremely pampered African Prince travels to Queens, New York, and goes undercover to find a wife whom he can respect for her intelligence and will.
+Year: 1988
+Actors: Eddie Murphy, Arsenio Hall, James Earl Jones, John Amos
+Rotten Tomatoes Rating: N/A
+Rotton Tomatoes URL: http://www.rottentomatoes.com/m/coming_to_america/
+
+***** New Search - movie-this - coming to america *****
+
+Title: Coming to America
+Country: USA
+Year: 1988
+IMDB Rating: 7.0
+Language: English
+Short Plot: An extremely pampered African Prince travels to Queens, New York, and goes undercover to find a wife whom he can respect for her intelligence and will.
+Rotten Tomatoes Rating: N/A
+Actors: Eddie Murphy, Arsenio Hall, James Earl Jones, John Amos
+Rotton Tomatoes URL: http://www.rottentomatoes.com/m/coming_to_america/
+
+***** New Search - spotify-this-song - Hotline Bling *****
+
+Song Name: Hotline Bling
+Spotify URL: https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4
+Album Name: Views
+Artist Name: Drake
+
+***** New Search - spotify-this-song - 'one *****
+
+Artist Name: Logic
+Song Name: 1-800-273-8255
+Spotify URL: https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L
+Album Name: Everybody
+
+***** New Search - spotify-this-song - 'one *****
+
+Album Name: Everybody
+Spotify URL: https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L
+Artist Name: Logic
+Song Name: 1-800-273-8255
+
+***** New Search - spotify-this-song - one dance *****
+
+Song Name: One Dance
+Album Name: Views
+Artist Name: Drake
+Spotify URL: https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4
+
+***** New Search - spotify-this-movie - coming to america *****
+
+Is this is valid!.
+
+***** New Search - movie-this - coming to america *****
+
+Title: Coming to America
+IMDB Rating: 7.0
+Language: English
+Actors: Eddie Murphy, Arsenio Hall, James Earl Jones, John Amos
+Short Plot: An extremely pampered African Prince travels to Queens, New York, and goes undercover to find a wife whom he can respect for her intelligence and will.
+Country: USA
+Rotten Tomatoes Rating: N/A
+Rotton Tomatoes URL: http://www.rottentomatoes.com/m/coming_to_america/
+Year: 1988
